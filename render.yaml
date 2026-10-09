@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: footprint-btc-day
+    runtime: static
+    staticPublishPath: .
